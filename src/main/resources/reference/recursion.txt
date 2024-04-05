@@ -1,0 +1,5 @@
+What is Recursion?
+==>when a function call itself.
+idea of recursion-->
+there is a function .if i call this function for certain input.while the function call itself.
+

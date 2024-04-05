@@ -1,0 +1,8 @@
+
+                                    recursion-->
+
+There are three conditions of recursion-->
+
+*1)--> when a function call itself.
+*2)--> there should be a base case where the method should stop.
+*3)--> The input to be method should be changed such that the input to the base condition should be reached .
