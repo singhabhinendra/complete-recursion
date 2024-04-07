@@ -8,7 +8,7 @@ public class FindFirstIndexArray {
             return 0;
         }
         int[] smallArray = new int[numbers.length-1];
-        for (int index = 1; index < numbers.length; index++) {
+        for (int index = 1; index < numbers.length; index++) { //we can also use copy array method here instead of using for loop.
             smallArray[index - 1] = numbers[index];
         }
 
